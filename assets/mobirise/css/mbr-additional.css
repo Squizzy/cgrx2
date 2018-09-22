@@ -2828,6 +2828,9 @@ body {
 .cid-r4oJAqA6ey .mbr-section-title {
   color: #efefef;
 }
+.cid-r4oJAqA6ey H4 {
+  color: #ff3366;
+}
 .cid-r4oJHaZiaU {
   padding-top: 0px;
   padding-bottom: 60px;
@@ -2868,6 +2871,9 @@ body {
   min-width: 100%;
   width: auto;
   max-width: 600px;
+}
+.cid-r4oJHaZiaU H4 {
+  color: #ff3366;
 }
 .cid-r4oJ0TtPiz {
   padding-top: 60px;
@@ -3329,7 +3335,7 @@ body {
 .cid-r4oHwMemAw {
   padding-top: 75px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-r4oHwMemAw .mbr-iconfont {
   font-size: 48px;
